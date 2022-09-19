@@ -1,6 +1,6 @@
 # Basic-Programming-Part4
 
-Tugas Alta Immersive Frontend Fundamental Programming (Computational Complexity)
+Tugas Alta Immersive Frontend Fundamental Programming (Recursive, Sorting, Searching)
 
 ## Tata Cara Pengerjakan Tugas
 
@@ -19,10 +19,6 @@ lalu jalankan perintah dibawah untuk mengganti remote git repository.
 git remote set-url origin <paste link HTTPS yang telah di copy sebelumnya>
 ```
 
-2. Jalankan perintah `npm install` untuk meng-install dependencies jest
-3. Kerjakan di masing-masing folder dan file yang sudah ditentukan sesuai dengan tugas yang diberikan.
-4. Setelah itu jalankan perintah `npm run test` di terminal untuk menjalankan unit test, lalu screenshot hasil unit test seperti dibawah dan masukkan kedalam folder `Screenshot`
-   ![screenshot](https://res.cloudinary.com/hypeotesa/image/upload/v1645628766/Result_dun5wl.png)
-
-5. Push project ini beserta tugas-tugas yang telah dikerjakan ke repo yang telah dibuat pada github organization.
-6. Selamat Mencoba!!!
+2. Masukkan code yang dibuat untuk Part 4 di masing-masing folder dan file yang sudah ditentukan sesuai dengan tugas yang diberikan.
+3. Push project ini beserta tugas-tugas yang telah dikerjakan ke repo yang telah dibuat pada github organization.
+4. Selamat Mencoba!!!
