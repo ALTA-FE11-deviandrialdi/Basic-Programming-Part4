@@ -1,6 +1,6 @@
 # Basic-Programming-Part4
 
-Tugas Alta Immersive Frontend Fundamental Programming (Recursive, Sorting, Searching)
+Tugas Alta Immersive Frontend Fundamental Programming (Looping & Recursive)
 
 ## Tata Cara Pengerjakan Tugas
 
