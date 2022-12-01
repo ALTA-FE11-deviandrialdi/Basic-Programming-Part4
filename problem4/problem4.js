@@ -1,16 +1,4 @@
 function maxSequence(arr) {
-  // -2, 1, -3, 4,```````` -1, 2, 1, -5, 4
-  // let max
-  // i=0, j=0 ==> jumlahkan index 0-0, lalu bandingkan dengan max
-  // i=0, j=1 ==> jumlahkan index 0-1, lalu bandingkan dengan max
-  // i=0, j=2 ==> jumlahkan index 0-2, lalu bandingkan dengan max
-  // i=0, j=3 ==> jumlahkan index 0-3, lalu bandingkan dengan max
-  // i=1, j=1 ==> jumlahkan index 1-1, lalu bandingkan dengan max
-  // i=1, j=2 ==> jumlahkan index 1-2, lalu bandingkan dengan max
-  // i=1, j=3 ==> jumlahkan index 1-3, lalu bandingkan dengan max
-  // i=2, j=2 ==> jumlahkan index 2-2, lalu bandingkan dengan max
-  // i=2, j=3 ==> jumlahkan index 2-3, lalu bandingkan dengan max
-  // i=3, j=3 ==> jumlahkan index 3-3, lalu bandingkan dengan max
 
   let max;
   //   console.log(arr);
